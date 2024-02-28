@@ -36,7 +36,7 @@
  /* verilator lint_on STMTDLY */
 
  initial begin
- $dumpfile ( "top_tb.vcd") ;
+ $dumpfile ( "tb.vcd") ;
  $dumpvars ;
 
 
