@@ -22,7 +22,7 @@
  //output wire dac_o
 
  // DUT
- top
+ tt_um_delta_sigma
  #( BW )
  dac (
  .clk_i ( clk_i ),
